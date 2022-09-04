@@ -1,4 +1,4 @@
-## Work-scheduler-App
+# Work-scheduler-App
 Created a calender application that allows user to save events for specified hours of the day.
 
 ## Introduction
@@ -6,7 +6,7 @@ This project aims to promote and reinforce our understanding of third party APIs
 particularly bootstrap and jQuery.
 
 ## Screenshot of the application
-![screenshot of the application.](Work-scheduler-App\assets\images\2022-09-04.png)
+![screenshot of the application.](assets\images\screenshotapp.png)
 
 
 ## link to github repository
